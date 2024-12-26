@@ -2,7 +2,7 @@
 
 Welcome to the **Ecommerce-Website** project! This repository contains the source code for a fully-functional e-commerce website developed using HTML, CSS, and JavaScript. 🎉
 
-## 📜 Table of Contents
+## 🔜 Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
@@ -27,52 +27,46 @@ To set up the project locally, follow these steps:
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/Vatshayan/Ecommerce-Website.git
-Navigate to the project directory:
+   ```
+2. **Navigate to the project directory**:
+   ```sh
+   cd Ecommerce-Website
+   ```
+3. **Open the project in your preferred code editor**.
+4. **Start a local server** to view the website in action.
 
-sh
-cd Ecommerce-Website
-Open the project in your preferred code editor.
+## 🔅 Usage
+1. Open `index.html` in your web browser to view the homepage.
+2. Navigate through the website using the menu to explore products, add items to your cart, and proceed to checkout.
+3. Modify the content and styles as needed to customize the website for your own use.
 
-Start a local server to view the website in action.
-
-🖥️ Usage
-Open index.html in your web browser to view the homepage.
-
-Navigate through the website using the menu to explore products, add items to your cart, and proceed to checkout.
-
-Modify the content and styles as needed to customize the website for your own use.
-
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! If you have ideas to improve the project or find any issues, feel free to fork the repository, make your changes, and submit a pull request. ✨
 
-Fork the repository.
+1. **Fork the repository**.
+2. **Create a new branch**:
+   ```sh
+   git checkout -b feature/your-feature-name
+   ```
+3. **Commit your changes**:
+   ```sh
+   git commit -m 'Add some feature'
+   ```
+4. **Push to the branch**:
+   ```sh
+   git push origin feature/your-feature-name
+   ```
+5. **Open a pull request**.
 
-Create a new branch:
-
-sh
-git checkout -b feature/your-feature-name
-Commit your changes:
-
-sh
-git commit -m 'Add some feature'
-Push to the branch:
-
-sh
-git push origin feature/your-feature-name
-Open a pull request.
-
-📜 License
+## 📜 License
 This project is licensed under the MIT License. 📄 See the LICENSE file for more details.
 
-📧 Contact
+## 📧 Contact
 For any inquiries or support, please reach out to me at:
 
-Instagram: itsmahesh_01
-
-Twitter: kumarMahesh9304
-
-Facebook: Mahesh Kumar
-
-Email: maheshkumar9304631853@gmail.com
+- **Instagram**: [itsmahesh_01](https://instagram.com/itsmahesh_01)
+- **Twitter**: [kumarMahesh9304](https://twitter.com/kumarMahesh9304)
+- **Facebook**: [Mahesh Kumar](https://facebook.com/MaheshKumar)
+- **Email**: [maheshkumar9304631853@gmail.com](mailto:maheshkumar9304631853@gmail.com)
 
 Happy coding! 💻✨
