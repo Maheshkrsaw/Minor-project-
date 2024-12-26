@@ -1,42 +1,32 @@
-🌐 Ecommerce-Website
-Welcome to the Ecommerce-Website project! This repository contains the source code for a fully-functional e-commerce website developed using HTML, CSS, and JavaScript. 🎉
+# 🌐 Ecommerce-Website
 
-📜 Table of Contents
-Introduction
+Welcome to the **Ecommerce-Website** project! This repository contains the source code for a fully-functional e-commerce website developed using HTML, CSS, and JavaScript. 🎉
 
-Features
+## 📜 Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Installation
+## 🌟 Introduction
+The **Ecommerce-Website** project is designed as a final year project for students. It provides a comprehensive platform for buying and selling products online. 🛒 This project aims to demonstrate the core functionalities of an e-commerce website using front-end technologies. 🚀
 
-Usage
+## ✨ Features
+- **Responsive Design** 📱: The website is fully responsive, ensuring a seamless experience across all devices.
+- **Product Listings** 🛍️: Display a list of products with detailed descriptions, prices, and images.
+- **Shopping Cart** 🛒: Add, update, and remove items from the shopping cart.
+- **Checkout Process** 💳: A smooth checkout process to complete purchases.
+- **User Authentication** 🔒: Sign up, log in, and manage user accounts.
 
-Contributing
-
-License
-
-Contact
-
-🌟 Introduction
-The Ecommerce-Website project is designed as a final year project for students. It provides a comprehensive platform for buying and selling products online. 🛒 This project aims to demonstrate the core functionalities of an e-commerce website using front-end technologies. 🚀
-
-✨ Features
-Responsive Design 📱: The website is fully responsive, ensuring a seamless experience across all devices.
-
-Product Listings 🛍️: Display a list of products with detailed descriptions, prices, and images.
-
-Shopping Cart 🛒: Add, update, and remove items from the shopping cart.
-
-Checkout Process 💳: A smooth checkout process to complete purchases.
-
-User Authentication 🔒: Sign up, log in, and manage user accounts.
-
-⚙️ Installation
+## ⚙️ Installation
 To set up the project locally, follow these steps:
 
-Clone the repository:
-
-sh
-git clone https://github.com/Vatshayan/Ecommerce-Website.git
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/Vatshayan/Ecommerce-Website.git
 Navigate to the project directory:
 
 sh
@@ -75,6 +65,14 @@ Open a pull request.
 This project is licensed under the MIT License. 📄 See the LICENSE file for more details.
 
 📧 Contact
-For any inquiries or support, please reach out to the project maintainers at vatshayan.sonkar@gmail.com. 📬
+For any inquiries or support, please reach out to me at:
+
+Instagram: itsmahesh_01
+
+Twitter: kumarMahesh9304
+
+Facebook: Mahesh Kumar
+
+Email: maheshkumar9304631853@gmail.com
 
 Happy coding! 💻✨
