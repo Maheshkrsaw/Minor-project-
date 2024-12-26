@@ -66,7 +66,7 @@ For any inquiries or support, please reach out to me at:
 
 - **Instagram**: [itsmahesh_01](https://instagram.com/itsmahesh_01)
 - **Twitter**: [kumarMahesh9304](https://twitter.com/kumarMahesh9304)
-- **Facebook**: [Mahesh Kumar](https://facebook.com/MaheshKumar)
+- **Facebook**: [Mahesh Kumar]([https://facebook.com/MaheshKumar](https://www.facebook.com/profile.php?id=100041005847318))
 - **Email**: [maheshkumar9304631853@gmail.com](mailto:maheshkumar9304631853@gmail.com)
 
 Happy coding! 💻✨
